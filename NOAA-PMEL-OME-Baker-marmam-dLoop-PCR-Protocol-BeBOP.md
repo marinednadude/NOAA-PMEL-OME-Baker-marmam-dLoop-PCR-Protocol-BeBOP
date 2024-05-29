@@ -69,7 +69,7 @@ See [MIOP_definition.md](https://github.com/BeBOP-OBON/0_protocol_collection_tem
 
 ## Summary
 
-This protocol is for amplifying the mitochondrial displacement loop (D-loop) gene in marine mammals. The primers (forward: Baker F Dlp1.5-H, reverse: Baker R Oordlp4) were first presented in [Baker et al. 2018](https://doi.org/10.3389/fmars.2018.00133). The target amplicon size is 389 base pairs.
+This protocol is for amplifying the mitochondrial displacement loop (D-loop) gene also known as the mitochondial control region in marine mammals. The primers (forward: Baker F Dlp1.5-H, reverse: Baker R Oordlp4) were first presented in [Baker et al. 2018](https://doi.org/10.3389/fmars.2018.00133). The target amplicon size is 389 base pairs.
 
 This primer set targets marine mammals (particularly cetaceans). Important note, this primer also amplifies non-target organisms including other mammal species (e.g., humans, cows, etc.). 
 
