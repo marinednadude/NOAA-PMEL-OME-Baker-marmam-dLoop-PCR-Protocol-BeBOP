@@ -296,4 +296,4 @@ Nuclease-free water is used as a no template control (NTC) when setting up each 
 
 1. Baker, C. S., Steel, D., Nieukirk, S., & Klinck, H. (2018). Environmental DNA (eDNA) from the wake of the whales: Droplet digital PCR for detection and species identification. Frontiers in Marine Science, 5, 133. https://doi.org/10.3389/fmars.2018.00133
 ## APPENDIX A: DATASHEETS
-[Protocol Sample Sheet](https://docs.google.com/spreadsheets/d/1_9NNIHupbBdBMVOIKPJxlT9mq9rb32AA30L9HYM486Y/edit?usp=sharing)
+[Protocol Sample Sheet](https://docs.google.com/spreadsheets/d/1nvaLoQD3lNghTBuCwAnZQDoZYM-lBc7z/edit?gid=1809499027#gid=1809499027)
