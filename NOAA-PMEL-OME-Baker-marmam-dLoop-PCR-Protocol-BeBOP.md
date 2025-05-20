@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 170
 personnel_required: 1
 language: en
-issued: 2025-05-30
+issued: 2025-05-20
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1
@@ -50,7 +50,7 @@ probe_seq: not applicable
 probe_ref: not applicable
 probe_conc: not applicable
 commercial_mm: Phusion High-Fidelity PCR Master Mix with HF Buffer (NEB - M0531L)
-custom_mm: PCR reactions were run in 25 uL reaction volumes, with 2 uL of DNA, 12.5 uL of 2X Phusion Master Mix, 6.625 uL of water, 0.625 uL rAlbumin, 0.75 uL DMSO, and 1.25 uL of each primer (10 uM).
+custom_mm: PCR reactions were run in 25 μL reaction volumes, with 2 μL of DNA, 12.5 μL of 2X Phusion Master Mix, 6.625 μL of water, 0.625 μL rAlbumin, 0.75 μL DMSO, and 1.25 μL of each primer (10 μM).
 block_seq: not applicable
 block_ref: not applicable
 block_taxa: not applicable
@@ -197,8 +197,8 @@ For a 96-well Plate:
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment**|
 |Pipetter: 1-10 μl|Pipetman P10L|Gilson|1|Can be substituted with any accurate pipettor|
-|Pipetter: 20 - 200 uL	|Pipetman P200L|Gilson|	1|Can be substituted with any accurate pipettor|
-|Pipetter: 100-1000 uL	|Pipetman P1000	|Gilson	|1|Can be substituted with any accurate pipettor|
+|Pipetter: 20 - 200 μL	|Pipetman P200L|Gilson|	1|Can be substituted with any accurate pipettor|
+|Pipetter: 100-1000 μL	|Pipetman P1000	|Gilson	|1|Can be substituted with any accurate pipettor|
 |BioSafety II cabinet|Biological safety cabinet (INT-1100A2)|Kewaunee|1|Can be substituted with generic - internal UV light required|
 |Thermocycler|Veriti 96-well thermal cycler |Applied Biosystems| 1|	Can be substituted with generic|
 | Mini-centrifuge | Personal mini centrifuge  | BioExcell | 1 | Can be substituted with generic, but needs to fit 1.5-2.0 mL tubes |
@@ -246,9 +246,7 @@ For a 96-well Plate:
 
 ## STANDARD OPERATING PROCEDURE
 
-### Protocol
-
-#### Preparation
+### Preparation
 
 1. Sterilize workspaces and durable equipment, including pipettes within the BSC with 10% bleach. Then wipe down all surfaces and equipment with 70% EtOH.
 2. If you have a UV crosslinker available, UV pipettes and tube racks regularly for 2 minutes.
@@ -257,7 +255,7 @@ For a 96-well Plate:
 
 ### PCR
 
-**Primer Sequences without Adapters**: PCR primer sequences (target sequence bolded) 
+**Primer Sequences without Adapters**: PCR primer sequences (**target sequence bolded**)
 
 | PCR Primer Name | Direction | Sequence (5’ -> 3’)|
 | ----- | ----- | ----- |
@@ -351,5 +349,6 @@ Nuclease-free water is used as a no template control (NTC) when setting up each 
 ## REFERENCES
 
 1. Baker, C. S., Steel, D., Nieukirk, S., & Klinck, H. (2018). Environmental DNA (eDNA) from the wake of the whales: Droplet digital PCR for detection and species identification. Frontiers in Marine Science, 5, 133. https://doi.org/10.3389/fmars.2018.00133
+
 ## APPENDIX A: DATASHEETS
 [Protocol Sample Sheet](https://docs.google.com/spreadsheets/d/1nvaLoQD3lNghTBuCwAnZQDoZYM-lBc7z/edit?gid=1809499027#gid=1809499027)
