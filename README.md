@@ -1,6 +1,6 @@
 # NOAA-PMEL-OME-Baker-marmam-dLoop-PCR-Protocol-BeBOP
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11398094.svg)](https://doi.org/10.5281/zenodo.11398094)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17612187.svg)](https://doi.org/10.5281/zenodo.17612187)
 
 
 See [NOAA-PMEL-OME-Baker-marmam-dLoop-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-Baker-marmam-dLoop-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Baker-marmam-dLoop-PCR-Protocol-BeBOP.md) for detailed protocol. 
